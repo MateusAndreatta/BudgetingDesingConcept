@@ -126,7 +126,7 @@ struct CreditScoreView: View {
             )
             .padding(.top, 32)
 
-            
+            Spacer()
         }
         .padding(24)
         

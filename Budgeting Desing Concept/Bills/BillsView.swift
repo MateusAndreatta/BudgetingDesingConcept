@@ -32,7 +32,7 @@ struct BillsView: View {
                 RoundedRectangle(cornerRadius: 18)
                     .stroke(.neutral400, lineWidth: 1)
             )
-
+            Spacer()
         }
         .padding(24)
     }
